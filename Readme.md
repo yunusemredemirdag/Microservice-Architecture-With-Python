@@ -15,6 +15,7 @@ This application use Django and Flask Frameworks.
 
 - **admin** application is ***Django*** app.
 - **main** application is ***Flask*** app.
+- ***PostgreSQL*** was used as the database
 
 <br/>
 
