@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+Flask-Migrate==2.1.1
+Flask-Script==2.0.5
+Flask-SQLAlchemy
+pika
+psycopg2
+requests
+SQLAlchemy
